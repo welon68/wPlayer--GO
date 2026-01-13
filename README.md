@@ -34,6 +34,7 @@ Your music directory.
 /music
 
 The recommended structure is **flat and album-based**:
+
 more info soon :-)
 
 
