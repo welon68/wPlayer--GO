@@ -23,3 +23,32 @@ No Apache. No Docker required. Minimal setup.
 
 
 <img width="1896" height="913" alt="image" src="https://github.com/user-attachments/assets/9f7ad84c-85ea-45ee-a5f9-9c1c048bf2bd" />
+
+How to run. 
+./wPlayer
+
+== wPlayer startup check ==
+✅ mpd found
+✅ mpc found
+✅ /music found
+✅ MPD responding
+============================
+Listening on http://0.0.0.0:8080
+
+Your music directory.
+/music
+
+The recommended structure is **flat and album-based**:
+
+/music
+├── Album 1
+│ ├── 01 - Track.flac
+│ ├── 02 - Track.flac
+│ └── cover.jpg
+├── Album 2
+│ ├── 01 - Track.mp3
+│ └── cover.jpg
+└── Album 3
+├── 01 - Track.flac
+└── cover.jpg
+
