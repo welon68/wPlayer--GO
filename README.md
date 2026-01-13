@@ -19,7 +19,7 @@ No Apache. No Docker required. Minimal setup.
 - 🌐 Web-based player (HTML / JS)
 - 🎨 Clean and responsive interface
 - ⚡ Fast startup (single Go binary)
-- 🐧 Designed for Linux (ARM / x86)
+- 🐧 Designed for Linux (ARM) banana, raspberry pi ...
 
 
 <img width="1896" height="913" alt="image" src="https://github.com/user-attachments/assets/9f7ad84c-85ea-45ee-a5f9-9c1c048bf2bd" />
@@ -27,28 +27,14 @@ No Apache. No Docker required. Minimal setup.
 How to run. 
 ./wPlayer
 
-== wPlayer startup check ==
-✅ mpd found
-✅ mpc found
-✅ /music found
-✅ MPD responding
-============================
-Listening on http://0.0.0.0:8080
+<img width="448" height="120" alt="image" src="https://github.com/user-attachments/assets/fe37415d-19aa-4604-be5b-30ea5fca212c" />
+
 
 Your music directory.
 /music
 
 The recommended structure is **flat and album-based**:
 
-/music
-├── Album 1
-│ ├── 01 - Track.flac
-│ ├── 02 - Track.flac
-│ └── cover.jpg
-├── Album 2
-│ ├── 01 - Track.mp3
-│ └── cover.jpg
-└── Album 3
-├── 01 - Track.flac
-└── cover.jpg
+
+
 
